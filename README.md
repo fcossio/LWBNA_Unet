@@ -36,6 +36,3 @@ my_unet.summary()
 # you can now train `my_unet` as a regular `keras.Model`
 
 ```
-
-
-<script async defer src="https://buttons.github.io/buttons.js"></script>
